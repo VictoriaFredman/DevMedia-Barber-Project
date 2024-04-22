@@ -1,5 +1,5 @@
 body {
-    background-color: #f1f1f1;
+    background-color: #c5601c;
     text-align: center;
 }
 
@@ -46,6 +46,7 @@ p {
     font-family: Verdana;
     color: #7a797b;
     line-height: 20px;
+    background-color: #c5601c;
 }
 
 a {
